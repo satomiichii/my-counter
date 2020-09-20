@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: honeydew;
+}
+
+h1 {
+    font-family: 'Sacramento', sans-serif;
+    font-size: 10rem;
+    color: darksalmon;
+    margin: 10px auto;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5rem;
+    color: dimgray;   
+    margin: 20px auto 5px; 
+}
+button {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+    font-size: 1.2rem;
+    display: inline-block;
+    line-height: 2;
+    width: 10%;
+    text-decoration: none;
+    background: linear-gradient(to top,#11999E, #66BFBF);
+    border-radius: 30px;
+    color: white;
+    border-color: dimgray;
+}
+
+button:hover {
+    background: linear-gradient(to top,gray, silver);
+     color: white;
+ }
